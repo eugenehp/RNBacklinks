@@ -69,7 +69,8 @@ yarn start
 # Run on iOS simulator (macOS)
 yarn ios
 
-# Run on Android emulatoryarn android
+# Run on Android emulator
+yarn android
 ```
 
 If you use npm, replace `yarn` with `npm run` (or the equivalent scripts in package.json).
@@ -142,23 +143,8 @@ If you'd like a project board, issue templates, or contribution guidelines added
 
 ## License
 
-Specify a license for the project. Example:
+MIT 
 
-MIT © Eugene H-P
+## Copyright 
 
-(Replace with the license file present in the repository if different.)
-
-## Contact
-
-For questions or help, open an issue or contact the maintainer: [eugenehp](https://github.com/eugenehp)
-
----
-
-If you'd like, I can:
-
-- Customize the README to describe the exact features and architecture of this repo (send me a short list of the app's main features or core technologies used),
-- Add badges (CI, license, version),
-- Add step-by-step debugging or release notes,
-- Create a docs/README with developer-oriented guides.
-
-Tell me which of the above you'd like next and I'll update the README accordingly.
+© 2021-2026 Eugene Hauptmann
